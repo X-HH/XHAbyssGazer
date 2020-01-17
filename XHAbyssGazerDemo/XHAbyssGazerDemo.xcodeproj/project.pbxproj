@@ -170,8 +170,8 @@
 		690F264323D1597100F1C1F8 /* AbyssGazer */ = {
 			isa = PBXGroup;
 			children = (
-				690F264423D1597100F1C1F8 /* Task */,
 				690F265023D1597100F1C1F8 /* Engine */,
+				690F264423D1597100F1C1F8 /* Task */,
 			);
 			name = AbyssGazer;
 			path = XHAbyssGazerDemo/AbyssGazer;
@@ -180,17 +180,17 @@
 		690F264423D1597100F1C1F8 /* Task */ = {
 			isa = PBXGroup;
 			children = (
-				690F264523D1597100F1C1F8 /* XHAbyssGazerAgainstInjectTask.m */,
 				690F264623D1597100F1C1F8 /* XHAbyssGazerSecurityTask.h */,
-				690F264723D1597100F1C1F8 /* XHAbyssGazerUtils.m */,
-				690F264823D1597100F1C1F8 /* XHGazerSecurityInfoModel.m */,
-				690F264923D1597100F1C1F8 /* XHAbyssGazerAgainstDebugTask.m */,
-				690F264A23D1597100F1C1F8 /* XHAbyssGazerAgainstInjectTask.h */,
-				690F264B23D1597100F1C1F8 /* XHAbyssGazerTaskProtocol.h */,
-				690F264C23D1597100F1C1F8 /* XHAbyssGazerUtils.h */,
 				690F264D23D1597100F1C1F8 /* XHAbyssGazerSecurityTask.m */,
 				690F264E23D1597100F1C1F8 /* XHAbyssGazerAgainstDebugTask.h */,
+				690F264923D1597100F1C1F8 /* XHAbyssGazerAgainstDebugTask.m */,
+				690F264A23D1597100F1C1F8 /* XHAbyssGazerAgainstInjectTask.h */,
+				690F264523D1597100F1C1F8 /* XHAbyssGazerAgainstInjectTask.m */,
+				690F264B23D1597100F1C1F8 /* XHAbyssGazerTaskProtocol.h */,
 				690F264F23D1597100F1C1F8 /* XHGazerSecurityInfoModel.h */,
+				690F264823D1597100F1C1F8 /* XHGazerSecurityInfoModel.m */,
+				690F264C23D1597100F1C1F8 /* XHAbyssGazerUtils.h */,
+				690F264723D1597100F1C1F8 /* XHAbyssGazerUtils.m */,
 			);
 			path = Task;
 			sourceTree = "<group>";
@@ -199,9 +199,9 @@
 			isa = PBXGroup;
 			children = (
 				690F265123D1597100F1C1F8 /* XHAbyssGazerTaskEngine.h */,
-				690F265223D1597100F1C1F8 /* XHAbyssGazerHooker.m */,
 				690F265323D1597100F1C1F8 /* XHAbyssGazerTaskEngine.m */,
 				690F265423D1597100F1C1F8 /* XHAbyssGazerHooker.h */,
+				690F265223D1597100F1C1F8 /* XHAbyssGazerHooker.m */,
 			);
 			path = Engine;
 			sourceTree = "<group>";
